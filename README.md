@@ -3,11 +3,10 @@
 
 Email Me 👉 ✉️ **ayushbharti125@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🔭 **I’m currently working on:** An AI ChatBot
+- 🌱 **I’m currently learning:** Node js
 - 📫 **How to reach me:** ayushbharti125@gmail.com
-- 😄 **Pronouns:** Imran Sir
+- 😄 **Pronouns:** Ayush Bharti
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🏆 GitHub Trophies
